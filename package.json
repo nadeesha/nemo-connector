@@ -2,7 +2,7 @@
   "name": "nemo-connector",
   "version": "0.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-register",
     "build": "babel src -d lib",
